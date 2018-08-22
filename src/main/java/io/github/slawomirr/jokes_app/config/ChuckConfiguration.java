@@ -1,4 +1,4 @@
-package com.joke.jokeapp.config;
+package io.github.slawomirr.jokes_app.config;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.context.annotation.Bean;

@@ -1,6 +1,6 @@
-package com.joke.jokeapp.controllers;
+package io.github.slawomirr.jokes_app.controllers;
 
-import com.joke.jokeapp.services.JokeService;
+import io.github.slawomirr.jokes_app.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
